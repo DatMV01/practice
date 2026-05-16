@@ -1,3 +1,6 @@
 [submodule "cqrs-eventsourcing-springboot-axon"]
 	path = cqrs-eventsourcing-springboot-axon
 	url = https://github.com/DatMV01/cqrs-eventsourcing-springboot-axon.git
+[submodule "nestjs-template"]
+	path = nestjs-template
+	url = https://github.com/DatMV01/nestjs-template.git
