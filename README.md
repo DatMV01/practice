@@ -1,3 +1,7 @@
+git clone --recurse-submodules https://github.com/DatMV01/practice.git
+git submodule foreach --recursive git remote -v
+
+
 1> Thêm submodule
   git submodule add https://github.com/DatMV01/cqrs-eventsourcing-springboot-axon.git
 
