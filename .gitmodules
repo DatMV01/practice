@@ -2,3 +2,6 @@
 	path = cqrs-eventsourcing-springboot-axon
 	url = https://github.com/DatMV01/cqrs-eventsourcing-springboot-axon.git
 
+[submodule "8289_java_microservices_cqrs_eventsourcing_kafka"]
+	path = 8289_java_microservices_cqrs_eventsourcing_kafka
+	url = https://github.com/DatMV01/8289_java_microservices_cqrs_eventsourcing_kafka.git
